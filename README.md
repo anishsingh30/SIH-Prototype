@@ -174,3 +174,5 @@ npx cap sync android
 - Developed for **Smart India Hackathon 2026** (Problem Statement: **SIH26042**).
 - Aligned with **Ministry of Education, Government of India (Samagra Shiksha)** & **NIPUN Bharat Guidelines**.
 - Distributed under the [MIT License](LICENSE).
+
+- # END
