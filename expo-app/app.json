@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "SAMVAAD (संवाद)",
+    "slug": "samvaad-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0f2942"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "in.gov.samvaad.app",
+      "permissions": [
+        "RECORD_AUDIO",
+        "MODIFY_AUDIO_SETTINGS",
+        "INTERNET",
+        "ACCESS_NETWORK_STATE"
+      ]
+    }
+  }
+}

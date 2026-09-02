@@ -1,0 +1,16 @@
+{
+  "short_name": "SAMVAAD",
+  "name": "SAMVAAD — Classroom Pedagogy Companion (Hindi ↔ Santali)",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f2942",
+  "theme_color": "#0f2942",
+  "display": "standalone",
+  "orientation": "portrait"
+}
